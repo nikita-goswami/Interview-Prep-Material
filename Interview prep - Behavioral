@@ -1,0 +1,31 @@
+Interview Questions - Behavioral
+
+
+
+1. Explain a scenario when you put your customer first
+2. How do you deal with ambiguity? Do you wait until things are clear? 
+3. Explain a scenario when you disagreed with your team members? Walk me through what happened?
+4.Tell me about a time you made decisions without consulting your manager. 
+Tell me about a time you had to overcome pushback from your Manager
+5.Tell me about a project where I used metrics to capture business insights.
+6.How would you handle a case where the report is running slowly. - Query Optimization (Filter first, computing all metrics in one single query, the better way is to compute one metric save it in a table, then compute anther. The ideal way is to compute similar metrics together which are coming from a common source ), Database schema optimization for querying, environment issue, can do looping using CTE or cross joins, program becomes slow with looping. Another way is to Do a part of job in python or write a script with a dynamic query (called SQL engine - it is more efficient)
+7.How did you respond to negative feedback?
+8.Tell me about a time that you performed work outside of your role.
+9.When you commit to a deadline in Project and you cannot finish, how do you communicate to customers? LP
+Follow-up questions
+	1) What was the reason that attributed to miss the deadline?
+	2) What is the solution or fix that it won’t happen again?
+10.Any example of what you did even before your customers asked for it? LP
+11. Give me an example when you took a decision without consulting your manager or Approval? 
+Follow-up questions
+	1) How do you justify that you have to skip Manger approval? 
+	2) What is the risk involved and what could be the impact if you had to wait till Manger Approval?
+	3) Were customers happy with your decision? 
+12. Given a product sale information on Amazon shopping website, what would be your approach to decide which product to price cut to improve the sales?
+	1)How do you measure your success, like which product price cuts did better on quantity of sales, profit? 
+13. How do you design your dashboards to show/measure your success? 
+14. Give me an example when you were the outlier when the whole team was taking one decision?
+15. Give me an example when you suggested a solution to customer and had a great success?
+16. What is the proud moment of your career when you not only met the goal but exceeded?
+17. Give me an example when you worked on something which is NOT your regular part of job or went beyond your responsibility and had a great success?
+Several follow up of question : like what exactly you did and how it impacted the customers, How you tested your work and measure your success?
